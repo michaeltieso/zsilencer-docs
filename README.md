@@ -23,7 +23,7 @@ Silencer was released in 1999 by Mind Control Software and was playable through 
 
 Silencer is multiplayer only team based capture-the-flag style game. Players control high-tech hackers on Mars called "Silencers," who are trying to overthrow the tyrannical Martian government. Hack military computers, then stash the recovered secrets in your hidden base. The first team of Silencers to retrieve three top secrets wins the mission. The losers are identified and destroyed by the Martian Central Authority. There are five underground Silencer agencies vying for power. Players choose one when they create a Silencer character.
 
-![Hacking](https://s3.amazonaws.com/zsilencer/images/hacking2.png)
+![Hacking](images/hacking2.png)
 
 Valve had acquired World Opponent Network (Won.net) in 2001 and began to implement all of its features into Steam. By May 2001, many of the servers had shut down in favor of Steam. Since Silencer was using Won.net servers, the game went offline and never returned. Mind Control Software had no interest to continuing to develop the game. Although Silencer was no longer playable online, the community stuck together for years in hopes of bringing the game back.
 
@@ -31,13 +31,13 @@ Valve had acquired World Opponent Network (Won.net) in 2001 and began to impleme
 
 13 years later an anonymous fan of Silencer took on the task of recreating Silencer. [zSilencer](http://zsilencer.com) is a 99% replica of the original Silencer and completely functional and online. Many of the players that played 13 years ago are coming back and new people are discovering the game. I suspect this game is going to be popular again. The community is strong and growing with nightly games going on for hours with several large matches.
 
-![Bomb](https://s3.amazonaws.com/zsilencer/images/bomb.png)
+![Bomb](images/bomb.png)
 
 ## We need your help
 
 The zSilencer community is still small. Although games are present everyday, there's usually only one or two games going on at once. We want this game to expand so that anyone can join at any time and join a game right away. In order to accomplish this, we need your help.
 
-![Tech Screen](https://s3.amazonaws.com/zsilencer/images/techscreen.png)
+![Tech Screen](images/techscreen.png)
 
 **Tell your friends**: Share the game, play with your friends, and introduce this amazing game to as many people as you know. Share this page on Facebook and Twitter.
 
