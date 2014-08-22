@@ -143,6 +143,13 @@ Your agent is equipped to carry around items (up to 4 of each type), and deploy 
 | Icon | Item/Tech | Desc | Cost | Tech | Slots |
 | ---- | --------- | ---- | ---- | ---- | ----- |
 |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 Laserammo	Laser	Immediately after shield technology was capable of dampening weapon effects, the Frost-Light laser was released. Two hits should remove any standard shield, but very little damage is done to an unshielded target.	150	1
 Rocketammo	Rocket	Long range, high yield mini-warheads will devastate any unshielded opponent. Includes an attached camera for in-flight kill tracking.	250	2
