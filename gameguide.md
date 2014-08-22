@@ -6,6 +6,8 @@ Location: Base Arsia Mons, Surface Temperature: -7C
 
 It is the near future on Mars, and the government is up to no good. As a result, there are powers that are trying to overthrow the government, known as Silencers. They are hackers and brokers of secrets, and they are not friendly to each other. Choose your agency well, and be wary and fast.
 
+![Hacking](https://s3.amazonaws.com/zsilencer/images/hacking.png)
+
 ## Getting Into The Game
 
 If you want to change graphics options or the controls, go to "OPTIONS".
