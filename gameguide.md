@@ -144,14 +144,14 @@ Your agent is equipped to carry around items (up to 4 of each type), and deploy 
 | ---- | --------- | ---- | ---- | ---------- |
 |  | Laser  | Immediately after shield technology was capable of dampening weapon effects, the Frost-Light laser was released. Two hits should remove any standard shield, but very little damage is done to an unshielded target. | 150  | 1 |
 |  | Rocket | Long range, high yield mini-warheads will devastate any unshielded opponent. Includes an attached camera for in-flight kill tracking. | 250 | 2 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|  | Flamer Ammo | Kills any unshielded target. No shield has been made that the Crucible flamer cannot ignore. Deadly at close range. | 200 | 2 |
+|  | Poison | Only available for Black Rose. A more devious strain of the Orion Flare, the Poison Flare incapacitates its victims in seconds and leaves them poisoned as well. Environmentally disastrous, but highly lethal. | 100 | 1 |
+|  | Security Pass | Only available for Caliber. Unlimited security access. Government agents will ignore you in the field. | 1000 | 1 |
+|  | Health Pack | Only available for Noxis. A small portable boost for Noxis agents in the field. Restores lost health, but must be manually applied. | 100 | 1 |
+|  | Virus | Only available for Static. A portable virus whipped up by the snotty underage hackers of Static. Gives you immediate control over cannons and robots in the field. May harm enemy in-base weapon stations. | 400 | 1 |
+|  | Lazarus Tract | Only available for Lazarus. The definitive and unquestionable truth about Mars' oddest and most powerful religious organization. Helpful in converting disbelieving citizens to your cause. | 300 | 1 |
+|  | E. M. P Bomb | Upon detonation it emits a electromagnetic pulse that drops all shields in a several mile radius. The user is protected by a frequency modulator that comes with the device. | 1000 | 4 |
+|  | Shaped Bomb | Derived from the plasma bomb, this bomb focus its destructive force upwards. | 100 | 1 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -160,16 +160,6 @@ Your agent is equipped to carry around items (up to 4 of each type), and deploy 
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-
-Rocketammo	Rocket		250	2
-Flamerammo	Flamer Ammo	Kills any unshielded target. No shield has been made that the Crucible flamer cannot ignore. Deadly at close range.	200	2
-Poisonicon	Poison	Only available for Black Rose. A more devious strain of the Orion Flare, the Poison Flare incapacitates its victims in seconds and leaves them poisoned as well. Environmentally disastrous, but highly lethal.	100	1
-Secpassicon	Security Pass	Only available for Caliber. Unlimited security access. Government agents will ignore you in the field.	1000	1
-Healthicon	Health Pack	Only available for Noxis. A small portable boost for Noxis agents in the field. Restores lost health, but must be manually applied.	100	1
-Virusicon	Virus	Only available for Static. A portable virus whipped up by the snotty underage hackers of Static. Gives you immediate control over cannons and robots in the field. May harm enemy in-base weapon stations.	400	1
-Laztracticon	Lazarus Tract	Only available for Lazarus. The definitive and unquestionable truth about Mars' oddest and most powerful religious organization. Helpful in converting disbelieving citizens to your cause.	300	1
-Bombicon	E. M. P Bomb	Upon detonation it emits a electromagnetic pulse that drops all shields in a several mile radius. The user is protected by a frequency modulator that comes with the device.	1000	4
-Bombicon	Shaped Bomb	Derived from the plasma bomb, this bomb focus its destructive force upwards.	100	1
 Bombicon	Plasma Bomb	An indiscriminate terrorist device capable of killing even a perfectly healthy opponent. A core explosion with multiple shrapnel tendrils, extremely lethal.	200	2
 Plasdeticon	Plasma Detonator	A remote detonation device. Deploy in strategic locations and detonate from a safe distance.	200	2
 Cannonicon	Fixed Cannon	A stationary laser turret with excellent offensive and defensive capabilities. This mechanical friend in the field can do your work for you.	200	1
