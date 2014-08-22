@@ -79,15 +79,25 @@ Let's run down a brief list of what is in your base:
 
 If you were to enter your base and head to the right, the first thing you would pass would be the regenerator / file-payout machine. This indestructible device both heals you as you run through it, as well as paying you for any files you have collected. It also is the most common place to re-spawn after being killed.
 
+![Base](images/base/regenerator.jpg)
+
 Continuing to the right, you'll pass the "Tech. Terminal", where you can buy items from your Tech slots (the green screen).
+
+![Base](images/base/techterminal.jpg)
 
 Beyond that, there is a ladder leading down (more on that in a moment).
 
+![Base](images/base/ladder2basement.jpg)
+
 Finally there is the Secrets Terminal at the extreme right. This is where you must deliver secrets to, in order to get credit for them.
+
+![Base](images/base/secretsterminal.jpg)
 
 **Remember**: you have to run all the way across your base to deliver a secret; and having an enemy lurk near that terminal can be disastrous. Also remember that you can infiltrate THEIR bases just as well as they can yours - but it DOES take away from time you could be hacking. You have to decide upon a balance between espionage and sabotage in Silencer.
 
 At the bottom of the ladder I just mentioned, you'll find a lower level of your base. Each machine in this area controls a tech slot for items that you can buy. If an opponent manages to sneak into your base and destroy one of these machines, one or more of your tech slots will be unavailable until you repair things. You do so by "buying" the repair at the Tech. Terminal.
+
+![Base](images/base/basebasement.jpg)
 
 ## Overall Gameplay
 
@@ -130,7 +140,10 @@ More like a dark force than a loose collection of humans, little is known of Bla
 
 Your agent is equipped to carry around items (up to 4 of each type), and deploy them at will. Items can be either picked up from dead enemies, or (more commonly) bought inside your base at a terminal. As you get items, they appear as icons in the upper right-hand corner of your screen. The brightest-green item is the item that is currently selected for deployment. To cycle through items and change which one is selected, use the [R] key. To deploy the item, press the [W] key.
 
-Icon	Item/Tech	Desc	Cost	Tech Slots
+| Icon | Item/Tech | Desc | Cost | Tech | Slots |
+| ---- | --------- | ---- | ---- | ---- | ----- |
+|  |  |  |  |  |  |
+
 Laserammo	Laser	Immediately after shield technology was capable of dampening weapon effects, the Frost-Light laser was released. Two hits should remove any standard shield, but very little damage is done to an unshielded target.	150	1
 Rocketammo	Rocket	Long range, high yield mini-warheads will devastate any unshielded opponent. Includes an attached camera for in-flight kill tracking.	250	2
 Flamerammo	Flamer Ammo	Kills any unshielded target. No shield has been made that the Crucible flamer cannot ignore. Deadly at close range.	200	2
