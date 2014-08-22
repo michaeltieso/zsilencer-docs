@@ -152,23 +152,15 @@ Your agent is equipped to carry around items (up to 4 of each type), and deploy 
 |  | Lazarus Tract | Only available for Lazarus. The definitive and unquestionable truth about Mars' oddest and most powerful religious organization. Helpful in converting disbelieving citizens to your cause. | 300 | 1 |
 |  | E. M. P Bomb | Upon detonation it emits a electromagnetic pulse that drops all shields in a several mile radius. The user is protected by a frequency modulator that comes with the device. | 1000 | 4 |
 |  | Shaped Bomb | Derived from the plasma bomb, this bomb focus its destructive force upwards. | 100 | 1 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
-Bombicon	Plasma Bomb	An indiscriminate terrorist device capable of killing even a perfectly healthy opponent. A core explosion with multiple shrapnel tendrils, extremely lethal.	200	2
-Plasdeticon	Plasma Detonator	A remote detonation device. Deploy in strategic locations and detonate from a safe distance.	200	2
-Cannonicon	Fixed Cannon	A stationary laser turret with excellent offensive and defensive capabilities. This mechanical friend in the field can do your work for you.	200	1
-Flareicon	Flare	The Orion Flare is a stationary mini-torch looks like a bomb in flight but has a more lingering effect. Useful for blocking off tight areas or herding enemies.	200	1
-Cameraicon	Camera	A remote viewing device that allows an agent to monitor an area on his/her HUD. Can be discreetly removed in a puff of smoke. When secrecy is a way of life.	100	1
-Basedooricon	Base Door	The ability to relocate the warp door to your base.	300	1
-Basedeficon	Base Defense	Internal security systems to deter would-be ambushers. In-base laser turrets. Multiple purchases increase turret structure durability.	100	1
-Insider Info	Your contacts on the inside can give you information about secrets. For a price of course.	500	1
-Bombicon	Neutron Bomb	A portable neutron bomb that swiftly eliminates all opposition in the entire region. The only defense against it is to be in your base. Use with extreme caution.	4000	8
+|  | Plasma Bomb | An indiscriminate terrorist device capable of killing even a perfectly healthy opponent. A core explosion with multiple shrapnel tendrils, extremely lethal. | 200 | 2 |
+|  | Plasma Detonator | A remote detonation device. Deploy in strategic locations and detonate from a safe distance. | 200 | 2 |
+|  | Fixed Cannon | A stationary laser turret with excellent offensive and defensive capabilities. This mechanical friend in the field can do your work for you. | 200 | 1 |
+|  | Flare | The Orion Flare is a stationary mini-torch looks like a bomb in flight but has a more lingering effect. Useful for blocking off tight areas or herding enemies. | 200 | 1 |
+|  | Camera | A remote viewing device that allows an agent to monitor an area on his/her HUD. Can be discreetly removed in a puff of smoke. When secrecy is a way of life. | 100 | 1 |
+|  | Base Door | he ability to relocate the warp door to your base. | 300 | 1 |
+|  | Base Defense | Internal security systems to deter would-be ambushers. In-base laser turrets. Multiple purchases increase turret structure durability. | 100 | 1 |
+|  | Insider Info | Your contacts on the inside can give you information about secrets. For a price of course. | 500 | 1 |
+|  | Neutron Bomb | A portable neutron bomb that swiftly eliminates all opposition in the entire region. The only defense against it is to be in your base. Use with extreme caution. | 4000 | 8 |
 
 ## Hacking
 
@@ -196,10 +188,14 @@ NOTE: You can also pickup inventory items and ammo from fallen enemies.
 
 ### Large Terminals
 
+![Large Terminals](images/hackingbigterminal.jpg)
+
 Large terminals provide more information than small terminals. If you upgrade your contact to at least 1, you get a countdown timer on large terminals.
 
 ### Small Terminals
-Hackingsmallterminal
+
+![Small Terminals](images/hackingsmallterminal.jpg)
+
 Small amount of information but are more common than large terminals.
 
 ## Experience / Leveling
