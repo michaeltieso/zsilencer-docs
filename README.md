@@ -23,7 +23,7 @@ Silencer is multiplayer only team based capture-the-flag style game. Players con
 
 Valve had acquired World Opponent Network (Won.net) in 2001 and began to implement all of its features into Steam. By May 2001, many of the servers had shut down in favor of Steam. Since Silencer was using Won.net servers, the game went offline and never returned. Mind Control Software had no interest to continuing to develop the game. Although Silencer was no longer playable online, the community stuck together for years in hopes of bringing the game back.
 
-## What is [zSilencer](http://zsilencer.com?
+## What is [zSilencer](http://zsilencer.com)
 
 13 years later an anonymous fan of Silencer took on the task of recreating Silencer. [zSilencer](http://zsilencer.com) is a 99% replica of the original Silencer and completely functional and online. Many of the players that played 13 years ago are coming back and new people are discovering the game. I suspect this game is going to be popular again. The community is strong and growing with nightly games going on for hours with several large matches.
 
