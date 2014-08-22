@@ -140,19 +140,28 @@ More like a dark force than a loose collection of humans, little is known of Bla
 
 Your agent is equipped to carry around items (up to 4 of each type), and deploy them at will. Items can be either picked up from dead enemies, or (more commonly) bought inside your base at a terminal. As you get items, they appear as icons in the upper right-hand corner of your screen. The brightest-green item is the item that is currently selected for deployment. To cycle through items and change which one is selected, use the [R] key. To deploy the item, press the [W] key.
 
-| Icon | Item/Tech | Desc | Cost | Tech | Slots |
-| ---- | --------- | ---- | ---- | ---- | ----- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Icon | Item/Tech | Desc | Cost | Tech Slots |
+| ---- | --------- | ---- | ---- | ---------- |
+|  | Laser  | Immediately after shield technology was capable of dampening weapon effects, the Frost-Light laser was released. Two hits should remove any standard shield, but very little damage is done to an unshielded target. | 150  | 1 |
+|  | Rocket | Long range, high yield mini-warheads will devastate any unshielded opponent. Includes an attached camera for in-flight kill tracking. | 250 | 2 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
-Laserammo	Laser	Immediately after shield technology was capable of dampening weapon effects, the Frost-Light laser was released. Two hits should remove any standard shield, but very little damage is done to an unshielded target.	150	1
-Rocketammo	Rocket	Long range, high yield mini-warheads will devastate any unshielded opponent. Includes an attached camera for in-flight kill tracking.	250	2
+
+Rocketammo	Rocket		250	2
 Flamerammo	Flamer Ammo	Kills any unshielded target. No shield has been made that the Crucible flamer cannot ignore. Deadly at close range.	200	2
 Poisonicon	Poison	Only available for Black Rose. A more devious strain of the Orion Flare, the Poison Flare incapacitates its victims in seconds and leaves them poisoned as well. Environmentally disastrous, but highly lethal.	100	1
 Secpassicon	Security Pass	Only available for Caliber. Unlimited security access. Government agents will ignore you in the field.	1000	1
