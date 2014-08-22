@@ -6,7 +6,7 @@ Location: Base Arsia Mons, Surface Temperature: -7C
 
 It is the near future on Mars, and the government is up to no good. As a result, there are powers that are trying to overthrow the government, known as Silencers. They are hackers and brokers of secrets, and they are not friendly to each other. Choose your agency well, and be wary and fast.
 
-![Hacking](https://s3.amazonaws.com/zsilencer/images/hacking.png)
+![Hacking](images/hacking.png)
 
 ## Getting Into The Game
 
@@ -46,27 +46,20 @@ Ladder Jump: To jump up from a ladder simply latch onto a ladder and press the j
 
 The HUD in Silencer is designed to give you quick access to all the information about your agent, without cluttering up the main playing area. The HUD contains the following elements (in clockwise order):
 
-The **Agent List** shows life-signs and organization affiliations (as well as team colors) of all agents. If an agent has a secret, their life-sign monitor turns white. If an agent is killed, their life-sign monitor shows a flat red line. The three dots next to each agent show the number of secrets they've found and retrieved. When one agent or team collects 3 secrets, the game is over.
 
-Your **Inventory** shows icons and numbers representing what items you are carrying, and how much of each you have. The item that is the brightest is the currently selected item. Items with a number next to them indicate that you are carrying more than one of that type of object.
-
-The **Files bar** shows how "full" of files your agent is. You get files whenever you hack, regardless of whether or not they count towards a secret. The more files you have when you run through the regenerator in your base, the more you get paid.
-
-Your **Credit Balance** is how many credits you have available for spending on tech. items and ammo.
-
-The **Shield Level Indicator** shows how much shield strength you have remaining. When this gets low, your body will begin to take damage; and will be much more susceptible to certain types of damage.
-
-The **Fuel Gauge** drops as soon as you use your jetpack. It will continue to drop to empty, regardless of whether or not you use your jetpack again. Once the fuel is exhausted, you will NOT be able to use your jetpack again until the fuel is fully recharged. Fuel automatically recharges itself after a few moments. When the "LOW FUEL" light goes off, you can use the jetpack again.
-
-The **Mini-map** is perhaps the most complex (and most useful) thing on your HUD. It can show you where you are, where your enemies are (red dots, if you've recently seen them), where known enemy bases are (rectangles, color-coded to each enemy agent), where hack-able terminals are (white crosses), where secrets are (blue crosses for your secrets, red crosses for enemy ones - or flashing circles around enemy dots, if they're being carried), and where explosions or fire-fights are going on (orange blips or areas).
-
-Your **Fatigue Gauge** monitors how much stress you're putting on your agent. This is only active in games where fatigue has been turned on./p>
-
-The **Health Meter** shows how much of your health you have remaining. When this drops to 0, you die and will have to wait a moment to re-spawn in your base before you can continue your mission.
-
-The **Weapon Selection Area** shows an icon for your currently selected weapon, and draws an outlined box around the amount of remaining ammo for it.
-
-The **Information List** shows your advancement towards finding the location of the next secret. Completed parts of the puzzle are in bright green; and the piece you are working on will flash while you hack. The information list is not visible when you haven't deployed a base door, or when you are currently waiting for the location of a secret.
+|   Image     |     Bio     |
+------------- | -------------
+| ![Agent List](images/hud/agentlist_closeup2.gif)  | The **Agent List** shows life-signs and organization affiliations (as well as team colors) of all agents. If an agent has a secret, their life-sign monitor turns white. If an agent is killed, their life-sign monitor shows a flat red line. The three dots next to each agent show the number of secrets they've found and retrieved. When one agent or team collects 3 secrets, the game is over. |
+| ![Inventory](images/hud/inventory_closeup.gif)  | Your **Inventory** shows icons and numbers representing what items you are carrying, and how much of each you have. The item that is the brightest is the currently selected item. Items with a number next to them indicate that you are carrying more than one of that type of object. |
+| ![Files bar](images/hud/filesbar_closeup.gif)  | The **Files bar** shows how "full" of files your agent is. You get files whenever you hack, regardless of whether or not they count towards a secret. The more files you have when you run through the regenerator in your base, the more you get paid. |
+| ![Credit Balance](images/hud/credits_closeup.gif)  | Your **Credit Balance** is how many credits you have available for spending on tech. items and ammo. |
+| No Image | The **Shield Level Indicator** shows how much shield strength you have remaining. When this gets low, your body will begin to take damage; and will be much more susceptible to certain types of damage. |
+| ![Fuel Gauge](images/hud/fuelgauge_closeup.gif) | The **Fuel Gauge** drops as soon as you use your jetpack. It will continue to drop to empty, regardless of whether or not you use your jetpack again. Once the fuel is exhausted, you will NOT be able to use your jetpack again until the fuel is fully recharged. Fuel automatically recharges itself after a few moments. When the "LOW FUEL" light goes off, you can use the jetpack again. |
+| ![Mini map](images/hud/minimap_closeup.gif) | The **Mini-map** is perhaps the most complex (and most useful) thing on your HUD. It can show you where you are, where your enemies are (red dots, if you've recently seen them), where known enemy bases are (rectangles, color-coded to each enemy agent), where hack-able terminals are (white crosses), where secrets are (blue crosses for your secrets, red crosses for enemy ones - or flashing circles around enemy dots, if they're being carried), and where explosions or fire-fights are going on (orange blips or areas). |
+| ![Fatigue Gauge](images/hud/fatiguegauge_closeup.gif) | Your **Fatigue Gauge** monitors how much stress you're putting on your agent. This is only active in games where fatigue has been turned on. |
+| ![Health Meter](images/hud/healthmeter_closeup.gif) | The **Health Meter** shows how much of your health you have remaining. When this drops to 0, you die and will have to wait a moment to re-spawn in your base before you can continue your mission. |
+| ![Weapon Selection Area](images/hud/weapsinfo_closeup.gif) | The **Weapon Selection Area** shows an icon for your currently selected weapon, and draws an outlined box around the amount of remaining ammo for it. |
+| ![Information List](images/hud/infolist_closeup.gif) | The **Information List** shows your advancement towards finding the location of the next secret. Completed parts of the puzzle are in bright green; and the piece you are working on will flash while you hack. The information list is not visible when you haven't deployed a base door, or when you are currently waiting for the location of a secret. |
 
 ## Your Base
 
